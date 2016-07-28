@@ -1,6 +1,6 @@
-#BAMTOOLS_ROOT=/srv/gsfs0/projects/curtis/ruping/tools/bamtools/
-#ZLIB_ROOT=/srv/gsfs0/projects/curtis/ruping/tools/zlib/current/
-#BOOST_ROOT=/srv/gsfs0/projects/curtis/ruping/tools/boost/current/
+BAMTOOLS_ROOT=/usr/local/bin/bamtools/
+ZLIB_ROOT=/usr/lib/x86_64-linux-gnu/libz
+BOOST_ROOT=/usr/lib/x86_64-linux-gnu/libboost
 CXX=g++
 BAMFLAGS=-lbamtools
 CXXFLAGS=-lz
