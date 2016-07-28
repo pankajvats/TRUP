@@ -1,4 +1,4 @@
-BAMTOOLS_ROOT=/usr/local/bin/bamtools
+BAMTOOLS_ROOT=/opt/TRUP/bamtools
 ZLIB_ROOT=/usr/lib/x86_64-linux-gnu/libz
 BOOST_ROOT=/usr/lib/x86_64-linux-gnu/libboost
 CXX=g++
